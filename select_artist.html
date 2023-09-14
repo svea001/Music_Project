@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles2.css') }}">
+    <title>Music Generator</title>
+</head>
+<body>
+    <h1 class="title">Welcome, {{ name }}!</h1>
+    <div class="artist-selection">
+        <form id="select-artist-form" method="POST">
+            <label for="artist">Choose an Artist: (do this one first!)</label>
+            <select id="artist" name="choice" required>
+                <option value="all">All of the above</option>
+                <option value="taylor_swift">Taylor Swift</option>
+                <option value="the_cure">The Cure</option>
+                <option value="kip_moore">Kip Moore</option>
+                <option value="lana_del_rey">Lana Del Rey</option>
+                <option value="luke_bryan">Luke Bryan</option>
+                <option value="arctic_monkeys">Arctic Monkeys</option>
+                <option value="stevie_nicks">Stevie Nicks</option>
+                <option value="mitski">Mitski</option>
+                <option value="zac_brown">Zac Brown</option>
+                <option value="ac_dc">AC/DC</option>
+                <option value="the_beatles">The Beatles</option>
+            </select>
+            <button type="button" id="submit1">Submit Artist Selection</button>
+            <p id="response-text"></p>      
+        </form>
+    </div>
+    <form id="user-input-form" class="user-input-form" method="POST" action="{{ url_for('submit_form') }}">
+        <label for="happiness-lower">From 1-100, how happy are you right now? (lower bound)</label>
+        <input type="number" id="happiness-lower" name="happiness-lower" min="1" max="100" required>
+
+        <label for="happiness-upper">From 1-100, how happy are you right now? (upper bound)</label>
+        <input type="number" id="happiness-upper" name="happiness-upper" min="1" max="100" required>
+
+        <label for="energized-lower">From 1-100, how energized are you right now? (lower bound)</label>
+        <input type="number" id="energized-lower" name="energized-lower" min="1" max="100" required>
+
+        <label for="energized-upper">From 1-100, how energized are you right now? (upper bound)</label>
+        <input type="number" id="energized-upper" name="energized-upper" min="1" max="100" required>
+
+        <button type="submit">Submit User Input</button>
+    </form>    
+    <script src="{{ url_for('static', filename='script2.js') }}"></script>
+    <script src="{{ url_for('static', filename='submission_logic.js') }}"></script>
+</body>
+</html>
