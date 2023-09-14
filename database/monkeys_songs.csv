@@ -1,0 +1,101 @@
+#,Song,Artist,Popularity,BPM,Genres,Parent Genres,Album,Album Date,Time,Dance,Energy,Acoustic,Instrumental,Happy,Speech,Live,Loud,Key,Time Signature
+1,Do I Wanna Know?,Arctic Monkeys,89,85,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,AM,09/09/2013,04:32,55,53,19,0,41,0,20,-8,F Major,4
+2,R U Mine?,Arctic Monkeys,84,97,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,AM,09/09/2013,03:21,29,76,1,0,62,0,30,-6,F#/G♭ Minor,4
+3,One For The Road,Arctic Monkeys,71,180,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,AM,09/09/2013,03:26,42,67,21,6,84,0,20,-7,C Major,4
+4,Arabella,Arctic Monkeys,79,180,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,AM,09/09/2013,03:27,58,56,2,0,51,0,20,-7,D Major,4
+5,I Want It All,Arctic Monkeys,67,131,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,AM,09/09/2013,03:05,50,81,0,7,29,0,0,-6,F Major,4
+6,No. 1 Party Anthem,Arctic Monkeys,72,115,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,AM,09/09/2013,04:03,51,70,33,9,60,0,10,-6,C Major,4
+7,Mad Sounds,Arctic Monkeys,65,80,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,AM,09/09/2013,03:35,53,46,28,20,49,0,10,-11,A#/B♭ Major,4
+8,Fireside,Arctic Monkeys,69,100,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,AM,09/09/2013,03:01,54,95,2,0,74,0,10,-6,A Minor,4
+9,Why'd You Only Call Me When You're High?,Arctic Monkeys,89,92,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,AM,09/09/2013,02:41,69,63,5,0,80,0,10,-6,D Major,4
+10,Snap Out Of It,Arctic Monkeys,81,130,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,AM,09/09/2013,03:13,73,64,25,0,87,0,10,-6,F Minor,4
+11,Knee Socks,Arctic Monkeys,77,98,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,AM,09/09/2013,04:17,67,54,12,0,59,0,30,-8,B Minor,4
+12,I Wanna Be Yours,Arctic Monkeys,94,68,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,AM,09/09/2013,03:03,46,42,14,2,48,0,10,-9,C Minor,4
+13,Brianstorm,Arctic Monkeys,72,165,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Favourite Worst Nightmare,22/04/2007,02:52,42,97,0,0,46,10,0,-5,C♯/D♭ Major,4
+14,Teddy Picker,Arctic Monkeys,73,150,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Favourite Worst Nightmare,22/04/2007,02:45,64,96,0,0,82,0,0,-5,A Major,4
+15,D is for Dangerous,Arctic Monkeys,63,145,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Favourite Worst Nightmare,22/04/2007,02:18,56,93,0,0,77,0,0,-5,C♯/D♭ Major,4
+16,Balaclava,Arctic Monkeys,63,138,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Favourite Worst Nightmare,22/04/2007,02:51,41,81,0,0,76,0,30,-4,B Minor,4
+17,Fluorescent Adolescent,Arctic Monkeys,80,112,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Favourite Worst Nightmare,22/04/2007,03:03,65,83,0,0,79,0,10,-5,C♯/D♭ Minor,4
+18,Only Ones Who Know,Arctic Monkeys,67,128,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Favourite Worst Nightmare,22/04/2007,03:04,29,40,90,0,10,0,10,-11,G Minor,5
+19,Do Me a Favour,Arctic Monkeys,69,180,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Favourite Worst Nightmare,22/04/2007,03:29,47,74,0,6,62,0,0,-7,B Minor,4
+20,This House is a Circus,Arctic Monkeys,60,155,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Favourite Worst Nightmare,22/04/2007,03:11,48,84,0,0,66,0,20,-5,G Major,4
+21,"If You Were There, Beware",Arctic Monkeys,59,136,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Favourite Worst Nightmare,22/04/2007,04:36,33,81,0,5,26,0,10,-7,E Minor,4
+22,The Bad Thing,Arctic Monkeys,60,111,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Favourite Worst Nightmare,22/04/2007,02:25,55,95,0,0,54,0,20,-4,D Major,4
+23,Old Yellow Bricks,Arctic Monkeys,69,135,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Favourite Worst Nightmare,22/04/2007,03:13,66,84,0,0,76,0,0,-4,C Major,4
+24,505,Arctic Monkeys,87,140,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Favourite Worst Nightmare,22/04/2007,04:13,53,87,0,0,25,0,0,-6,C Major,4
+25,The View From The Afternoon,Arctic Monkeys,64,146,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,"Whatever People Say I Am, That's What I'm Not",29/01/2006,03:42,39,92,0,0,42,0,10,-5,A Minor,4
+26,I Bet You Look Good On The Dancefloor,Arctic Monkeys,76,103,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,"Whatever People Say I Am, That's What I'm Not",29/01/2006,02:53,54,95,0,0,78,0,30,-4,F#/G♭ Minor,4
+27,Fake Tales Of San Francisco,Arctic Monkeys,67,127,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,"Whatever People Say I Am, That's What I'm Not",29/01/2006,02:57,45,78,1,0,70,0,0,-4,A Major,4
+28,Dancing Shoes,Arctic Monkeys,65,144,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,"Whatever People Say I Am, That's What I'm Not",29/01/2006,02:21,52,89,0,0,85,0,30,-4,C♯/D♭ Major,4
+29,You Probably Couldn't See For The Lights But You Were Staring Straight At Me,Arctic Monkeys,58,105,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,"Whatever People Say I Am, That's What I'm Not",29/01/2006,02:10,58,97,0,0,93,0,30,-4,B Minor,4
+30,Still Take You Home,Arctic Monkeys,60,109,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,"Whatever People Say I Am, That's What I'm Not",29/01/2006,02:53,60,95,0,0,65,0,10,-4,G#/A♭ Major,4
+31,Riot Van,Arctic Monkeys,62,104,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,"Whatever People Say I Am, That's What I'm Not",29/01/2006,02:14,59,33,36,0,26,0,20,-14,A Major,4
+32,Red Light Indicates Doors Are Secured,Arctic Monkeys,59,111,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,"Whatever People Say I Am, That's What I'm Not",29/01/2006,02:23,62,85,0,0,91,0,10,-5,B Minor,4
+33,Mardy Bum,Arctic Monkeys,77,112,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,"Whatever People Say I Am, That's What I'm Not",29/01/2006,02:55,63,60,3,0,31,0,20,-5,D Major,4
+34,Perhaps Vampires Is A Bit Strong But…,Arctic Monkeys,57,135,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,"Whatever People Say I Am, That's What I'm Not",29/01/2006,04:28,37,91,0,0,39,0,0,-5,B Minor,4
+35,When The Sun Goes Down,Arctic Monkeys,75,169,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,"Whatever People Say I Am, That's What I'm Not",29/01/2006,03:22,35,88,3,0,41,20,10,-5,B Minor,4
+36,From The Ritz To The Rubble,Arctic Monkeys,70,189,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,"Whatever People Say I Am, That's What I'm Not",29/01/2006,03:13,22,88,0,0,66,0,30,-5,B Minor,4
+37,A Certain Romance,Arctic Monkeys,66,138,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,"Whatever People Say I Am, That's What I'm Not",29/01/2006,05:31,46,88,0,0,20,0,10,-6,B Major,4
+38,My Propeller,Arctic Monkeys,64,116,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Humbug,20/08/2009,03:25,42,66,5,6,69,0,20,-7,A Minor,4
+39,Crying Lightning,Arctic Monkeys,73,107,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Humbug,20/08/2009,03:44,50,89,1,0,67,0,20,-4,E Minor,4
+40,Dangerous Animals,Arctic Monkeys,56,125,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Humbug,20/08/2009,03:30,34,92,1,0,53,10,20,-5,D#/E♭ Major,4
+41,Secret Door,Arctic Monkeys,65,125,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Humbug,20/08/2009,03:43,32,81,3,0,55,0,10,-7,G Minor,4
+42,Potion Approaching,Arctic Monkeys,55,104,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Humbug,20/08/2009,03:32,42,76,1,7,77,0,0,-9,E Minor,4
+43,Fire And The Thud,Arctic Monkeys,55,115,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Humbug,20/08/2009,03:57,57,61,17,1,41,0,20,-11,D Major,4
+44,Cornerstone,Arctic Monkeys,71,169,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Humbug,20/08/2009,03:17,29,72,1,0,76,0,30,-6,A Major,4
+45,Dance Little Liar,Arctic Monkeys,60,100,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Humbug,20/08/2009,04:43,54,61,6,77,54,0,10,-9,C♯/D♭ Minor,4
+46,Pretty Visitors,Arctic Monkeys,64,83,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Humbug,20/08/2009,03:40,24,90,6,0,14,40,10,-6,F#/G♭ Minor,4
+47,The Jeweller's Hands,Arctic Monkeys,55,97,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Humbug,20/08/2009,05:44,51,80,14,8,39,0,10,-8,C Minor,4
+48,Star Treatment,Arctic Monkeys,55,120,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Tranquility Base Hotel & Casino,10/05/2018,05:54,58,77,24,0,67,0,10,-5,G Minor,4
+49,One Point Perspective,Arctic Monkeys,55,77,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Tranquility Base Hotel & Casino,10/05/2018,03:28,71,59,6,0,84,0,10,-5,G#/A♭ Major,4
+50,American Sports,Arctic Monkeys,50,177,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Tranquility Base Hotel & Casino,10/05/2018,02:38,37,87,0,0,59,0,10,-4,G Minor,3
+51,Tranquility Base Hotel & Casino,Arctic Monkeys,55,142,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Tranquility Base Hotel & Casino,10/05/2018,03:31,58,84,4,1,78,0,20,-4,A Minor,4
+52,Golden Trunks,Arctic Monkeys,49,93,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Tranquility Base Hotel & Casino,10/05/2018,02:53,49,56,13,0,9,0,10,-6,D Major,4
+53,Four Out Of Five,Arctic Monkeys,62,130,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Tranquility Base Hotel & Casino,10/05/2018,05:12,60,86,6,0,68,0,0,-4,C Major,4
+54,The World's First Ever Monster Truck Front Flip,Arctic Monkeys,48,145,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Tranquility Base Hotel & Casino,10/05/2018,03:00,60,60,35,35,55,0,0,-6,A#/B♭ Major,4
+55,Science Fiction,Arctic Monkeys,48,88,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Tranquility Base Hotel & Casino,10/05/2018,03:05,54,77,3,8,64,0,40,-5,G Major,4
+56,She Looks Like Fun,Arctic Monkeys,50,104,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Tranquility Base Hotel & Casino,10/05/2018,03:02,51,77,1,0,45,0,30,-4,C Major,4
+57,Batphone,Arctic Monkeys,49,107,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Tranquility Base Hotel & Casino,10/05/2018,04:31,68,68,31,0,68,0,30,-6,F Minor,4
+58,The Ultracheese,Arctic Monkeys,53,131,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Tranquility Base Hotel & Casino,10/05/2018,03:37,48,56,62,0,43,0,10,-7,A Major,3
+59,Four Out Of Five - Live,Arctic Monkeys,47,130,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,05:31,46,80,9,0,45,0,90,-8,A Minor,4
+60,Brianstorm - Live,Arctic Monkeys,47,81,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,03:29,29,93,2,0,24,10,80,-8,C Major,4
+61,Crying Lightning - Live,Arctic Monkeys,46,105,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,04:00,33,87,2,0,32,10,40,-8,A Minor,4
+62,Do I Wanna Know? - Live,Arctic Monkeys,50,84,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,04:41,25,77,9,0,31,0,60,-8,C Major,4
+63,Why'd You Only Call Me When You're High? - Live,Arctic Monkeys,49,92,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,03:03,37,81,18,0,53,0,70,-8,E Minor,4
+64,505 - Live,Arctic Monkeys,47,139,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,04:35,34,72,1,0,19,0,30,-9,C Major,4
+65,One Point Perspective - Live,Arctic Monkeys,44,77,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,03:22,55,64,18,1,82,0,20,-9,C Minor,4
+66,Do Me A Favour - Live,Arctic Monkeys,44,173,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,03:59,21,84,4,0,30,20,70,-9,F#/G♭ Minor,4
+67,Cornerstone - Live,Arctic Monkeys,45,76,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,03:41,37,78,15,0,47,0,80,-8,F#/G♭ Minor,4
+68,Knee Socks - Live,Arctic Monkeys,45,98,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,05:50,56,58,17,2,27,0,70,-10,E Minor,4
+69,Arabella - Live,Arctic Monkeys,45,91,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,04:06,39,83,18,0,29,20,70,-8,B Minor,4
+70,Tranquility Base Hotel & Casino - Live,Arctic Monkeys,43,143,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,04:03,43,75,25,0,38,0,70,-9,A Minor,4
+71,She Looks Like Fun - Live,Arctic Monkeys,41,106,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,03:21,28,64,17,0,39,0,70,-8,C Major,3
+72,From The Ritz To The Rubble - Live,Arctic Monkeys,43,174,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,03:41,17,92,9,0,42,10,90,-8,B Minor,4
+73,Pretty Visitors - Live,Arctic Monkeys,42,110,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,04:01,26,91,3,0,27,10,70,-7,D Major,3
+74,Don't Sit Down 'Cause I've Moved Your Chair - Live,Arctic Monkeys,42,114,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,03:41,27,81,9,1,38,0,80,-8,D Major,4
+75,I Bet You Look Good On The Dancefloor - Live,Arctic Monkeys,44,120,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,04:53,24,97,14,0,10,30,90,-7,B Minor,4
+76,Star Treatment - Live,Arctic Monkeys,41,120,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,05:35,51,70,18,0,51,0,70,-9,A#/B♭ Major,4
+77,The View From The Afternoon - Live,Arctic Monkeys,41,146,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,04:24,25,93,5,0,19,20,80,-7,D Major,4
+78,R U Mine? - Live,Arctic Monkeys,44,98,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Live at the Royal Albert Hall,04/12/2020,06:11,20,96,13,0,27,10,90,-7,B Minor,4
+79,She's Thunderstorms,Arctic Monkeys,62,119,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Suck It and See,06/06/2011,03:54,51,90,0,0,73,0,10,-5,G Major,4
+80,Black Treacle,Arctic Monkeys,61,100,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Suck It and See,06/06/2011,03:37,34,89,0,0,53,0,0,-6,G Major,4
+81,Brick By Brick,Arctic Monkeys,54,132,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Suck It and See,06/06/2011,02:59,28,81,0,0,54,0,30,-5,D Major,4
+82,The Hellcat Spangled Shalalala,Arctic Monkeys,56,130,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Suck It and See,06/06/2011,03:00,45,87,0,0,79,0,0,-5,B Major,4
+83,Don't Sit Down 'Cause I've Moved Your Chair,Arctic Monkeys,66,120,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Suck It and See,06/06/2011,03:03,43,91,2,28,32,0,30,-5,A Major,4
+84,Library Pictures,Arctic Monkeys,55,97,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Suck It and See,06/06/2011,02:22,30,94,0,1,40,0,10,-6,C♯/D♭ Major,4
+85,All My Own Stunts,Arctic Monkeys,52,127,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Suck It and See,06/06/2011,03:52,51,94,0,2,53,0,10,-5,D Major,4
+86,Reckless Serenade,Arctic Monkeys,57,128,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Suck It and See,06/06/2011,02:42,59,69,0,1,79,0,0,-7,D Major,4
+87,Piledriver Waltz,Arctic Monkeys,67,110,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Suck It and See,06/06/2011,03:23,44,87,1,0,47,0,40,-5,E Major,4
+88,Love is a Laserquest,Arctic Monkeys,66,170,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Suck It and See,06/06/2011,03:11,35,66,0,91,55,0,10,-7,B Major,4
+89,Suck It and See,Arctic Monkeys,65,128,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Suck It and See,06/06/2011,03:45,34,93,0,11,59,0,20,-5,E Major,4
+90,That's Where You're Wrong,Arctic Monkeys,55,136,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Suck It and See,06/06/2011,04:16,48,88,0,56,46,0,10,-6,E Major,4
+91,Arabella - Live,Arctic Monkeys,32,91,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Arabella (Live At The Royal Albert Hall),02/12/2020,04:06,43,86,17,0,26,20,70,-7,B Minor,4
+92,505 - Live,Arctic Monkeys,29,140,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Arabella (Live At The Royal Albert Hall),02/12/2020,04:35,36,77,1,0,22,0,30,-8,C Major,4
+93,505 - Live,Arctic Monkeys,34,139,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,505 (Live At The Royal Albert Hall),19/11/2020,04:35,34,72,1,0,19,0,30,-9,C Major,4
+94,Tranquility Base Hotel & Casino,Arctic Monkeys,36,142,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Tranquility Base Hotel & Casino,02/05/2018,03:31,59,77,4,1,79,0,20,-7,A Minor,4
+95,Anyways,Arctic Monkeys,48,83,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Tranquility Base Hotel & Casino,02/05/2018,03:41,28,58,53,0,32,0,10,-7,E Major,4
+96,"Four Out Of Five - Recorded at Electric Lady Studios, New York",Arctic Monkeys,40,130,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Spotify Singles,01/05/2018,04:34,53,69,3,0,78,0,30,-8,A Minor,4
+97,#NAME?,Arctic Monkeys,42,83,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Spotify Singles,01/05/2018,02:25,40,4,97,0,24,0,10,-16,C Major,5
+98,Do I Wanna Know?,Arctic Monkeys,54,85,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Do I Wanna Know?,18/07/2013,04:33,54,57,35,0,45,0,10,-7,D Minor,4
+99,2013,Arctic Monkeys,50,157,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,Do I Wanna Know?,18/07/2013,02:26,38,81,8,0,62,0,30,-7,G Major,4
+100,One For The Road,Arctic Monkeys,46,180,"garage rock, modern rock, permanent wave, rock, sheffield indie",Rock,One For The Road,09/12/2013,03:26,42,67,21,6,84,0,20,-7,C Major,4
