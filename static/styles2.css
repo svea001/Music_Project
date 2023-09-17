@@ -7,10 +7,13 @@ html, body {
     font: 100% / 1.5 serif;
     background-color: hsl(0, 0%, 95%);
     width: 85%;
-    max-width: 75rem;
     margin: auto;
     color: hsl(0, 0%, 20%);
   }
+.container {
+  max-width: 1200px;
+  margin: 5 auto;
+}
 .title {
     background: linear-gradient(hsl(300, 50%, 20%), hsl(300, 50%, 10%));
     padding: 2rem 0.5rem;
