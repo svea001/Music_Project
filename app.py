@@ -10,7 +10,7 @@ from spotipy.oauth2 import SpotifyOAuth
 
 app = Flask(__name__)
 logging.basicConfig(filename='app.log', level=logging.DEBUG)
-df = pd.read_csv(r"C:\Users\MUSIC_PROJECT\Database\all_songs2.csv", encoding="ISO-8859-1") #add your database location
+df = pd.read_csv(r"Music_Project\Database\all_songs2.csv", encoding="ISO-8859-1") #add your database location
 
 user_data = {}
 
