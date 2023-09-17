@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles2.css') }}">
+    <title>Music Generator</title>
+</head>
+<body>
+    <h1 class="title">Welcome, {{ name }}!</h1>
+    <div class="genre-selection">
+        <label for="genre">Choose a Genre: (do this one first!)</label>
+        <select id="genre" name="choice" required>
+            <option value="pop">Pop</option>
+            <option value="rock">Rock</option>
+            <option value="country">Country</option>
+            <option value="house">House</option>
+            <option value="all">All of the above</option>
+        </select>
+    </div>
+    <form id="user-input-form" class="user-input-form" method="POST" action="{{ url_for('select_genre', name=name) }}">
+        <label for="happiness-lower">From 1-100, how happy are you right now? (lower bound)</label>
+        <input type="number" id="happiness-lower" name="happinessLower" min="1" max="100" required>
+
+        <label for="happiness-upper">From 1-100, how happy are you right now? (upper bound)</label>
+        <input type="number" id="happiness-upper" name="happinessUpper" min="1" max="100" required>
+
+        <label for="energized-lower">From 1-100, how energized are you right now? (lower bound)</label>
+        <input type="number" id="energized-lower" name="energizedLower" min="1" max="100" required>
+
+        <label for="energized-upper">From 1-100, how energized are you right now? (upper bound)</label>
+        <input type="number" id="energized-upper" name="energizedUpper" min="1" max="100" required>
+        
+        <button type="submit" id="submit">Submit</button>
+    </form>    
+</body>
+</html>

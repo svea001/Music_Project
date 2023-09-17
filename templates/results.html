@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles3.css') }}">
+    <title>Music Generator</title>
+</head>
+<body>
+    <h1 class="title">Results</h1>
+    <div class="playlistName">
+        <p>Your playlist name is {{ user_data.playlist_name }}</p>
+        <p>Generate it by clicking the button below and go check it out!</p>
+    </div>
+    <form method="POST" action="/generate_playlist">
+        <button type="submit">Generate Playlist</button>
+    </form>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Song</th>
+                <th>Artist</th>
+                <th>Album</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for index, row in result_df.iterrows() %}
+                <tr>
+                    <td>{{ row['Song'] }}</td>
+                    <td>{{ row['Artist'] }}</td>
+                    <td>{{ row['Album'] }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
