@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", function () {
-    // Get references to the buttons and response text element
     const readyButton = document.getElementById("ready-button");
     const notReadyButton = document.getElementById("not-ready-button");
     const responseText = document.getElementById("response-text");
